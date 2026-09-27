@@ -1,5 +1,10 @@
 # OpenMausBot i18n / 本地化工具
 
+![banner](banner.svg)
+
+![Language](https://img.shields.io/badge/Language-Python-3776AB) ![Languages](https://img.shields.io/badge/Languages-8-green) ![Risk](https://img.shields.io/badge/Risk-低%20·%20可逆-green) ![Deps](https://img.shields.io/badge/Deps-0-red)
+
+
 将 [OpenMausBot](https://github.com/milind-soni/OpenMausBot)（Electron 桌面应用）的界面文案替换为任意支持的语言。
 
 ## 原理
